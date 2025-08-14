@@ -9,15 +9,15 @@
 - **Back-end:** Java (1.6, 1.7, 1.8), Servlets, JSP, JSF, PrimeFaces
 - **Front-end:** JavaScript, AngularJS, Angular 2+
 - **Bancos de Dados:** MySQL, Oracle, SQL Server
-- **Infra & DevOps:** Jenkins, Apache Tomcat, Jetty, Apache Kafka, Hive, Hadoop
+- **Infra & DevOps:** Jenkins, Apache Tomcat, Jetty, JBoss, Apache Kafka, Hive, Hadoop
 - **Outros:** Sustentação, Redmine, Jira
 
 ---
 
 ## 📈 Minha Jornada
 - **2018** → Estágio na *Pacto Mais*
-- **2019 - 2020** → Consolidação como desenvolvedor, explorando Java e front-end com Angular
-- **2021 - 2022** → Participação em projetos complexos, integração com Apache Kafka e Big Data (Hive/Hadoop)
+- **2019 - 2020** → Programador Junior e Pleno na *Pacto Mais*, consolidação como desenvolvedor, explorando Java e front-end com Angular
+- **2021 - 2022** → Programador Pleno na *Minsait*, participação em projetos complexos, integração com Apache Kafka e Big Data (Hive/Hadoop)
 - **2023 - Hoje** → Programador Sênior na *Minsait*, atuando em projetos de alta performance
 
 ---
